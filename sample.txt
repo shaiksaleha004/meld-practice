@@ -1,1 +1,2 @@
 This is a sample text.
+This is an updated line in the feature branch.
