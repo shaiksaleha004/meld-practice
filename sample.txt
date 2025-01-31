@@ -1,1 +1,1 @@
-This is a sample text.
+This is a conflicting update in the master branch.
