@@ -1,1 +1,3 @@
-This is a conflicting update in the master branch.
+This is a sample text.
+This is an updated line in the feature branch.
+This is a conflicting update in the main branch.
